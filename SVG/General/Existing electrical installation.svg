@@ -2,14 +2,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		width="0.797818in" height="0.482858in" viewBox="0 0 57.4429 34.7657" xml:space="preserve"
-		color-interpolation-filters="sRGB" class="st4">	
+		color-interpolation-filters="sRGB" class="st4">
 	<title>Existing electrical installation</title>
-	
-	<style type="text/css">	
+
+	<style type="text/css">
 	<![CDATA[
-		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st1 {fill:none;stroke:#FF3333;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
 		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st3 {fill:#000000;font-family:Calibri;font-size:0.416656em}
+		.st3 {fill:#FF3333;font-family:Calibri;font-size:0.416656em}
 		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>

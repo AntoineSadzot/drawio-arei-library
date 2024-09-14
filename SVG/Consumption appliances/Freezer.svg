@@ -7,9 +7,9 @@
 
 	<style type="text/css">
 	<![CDATA[
-		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st3 {fill:#000000;font-family:Times New Roman;font-size:0.833336em}
+		.st1 {fill:none;stroke:#FF3333;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.38}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.38}
+		.st3 {fill:#FF3333;font-family:Times New Roman;font-size:0.833336em}
 		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>

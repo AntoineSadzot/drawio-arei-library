@@ -4,13 +4,13 @@
 		width="0.288766in" height="0.239623in" viewBox="0 0 20.7912 17.2529" xml:space="preserve"
 		color-interpolation-filters="sRGB" class="st5">
 	<title>Dryer for floorplan</title>
-	
+
 	<style type="text/css">
 	<![CDATA[
-		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st2 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st3 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st1 {stroke:#FF3333;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.38}
+		.st2 {fill:none;stroke:#FF3333;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.38}
+		.st3 {fill:#FF3333;stroke:#FF3333;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.38}
+		.st4 {stroke:#FF3333;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
 		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>

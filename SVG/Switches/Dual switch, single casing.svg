@@ -3,12 +3,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		width="0.166911in" height="0.184683in" viewBox="0 0 12.0176 13.2972" xml:space="preserve"
 		color-interpolation-filters="sRGB" class="st3">
-	<title>Dual switch, single casing</title>	
+	<title>Dual switch, single casing</title>
 
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none}
-		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {stroke:#FF3333;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
 		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
